@@ -1,0 +1,5 @@
+<!--pages/demo03/demo03.wxml-->
+<text>pages/demo03/demo03.wxml</text>>
+<view>{{msg}}</view>
+<view>金额：{{num}}</view>
+<view>性别：{{isgirl}}</view>
