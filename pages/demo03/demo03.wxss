@@ -1,1 +1,5 @@
 /* pages/demo03/demo03.wxss */
+.for {
+  color: red;
+}
+

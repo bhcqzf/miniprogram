@@ -7,7 +7,12 @@ Page({
   data: {
     msg:"你好呀",
     num: 10000,
-    isgirl: true
+    isgirl: true,
+    Person:{
+      name:"bai",
+      weight:300
+    },
+    isChecked: true
   },
 
   /**
